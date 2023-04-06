@@ -8,7 +8,6 @@ Please keep in mind that these scripts have only been tested in python3.
 
 - antiSMASH v5.0
 - CORASON
-- BiG-MAP
 - dREP
 - GTDB-Tk
 - Pyhton 3+
@@ -17,8 +16,4 @@ Please keep in mind that these scripts have only been tested in python3.
 
 - argparse
 - pandas
-- numpy
-- collections
-- json
 - SeqIO
-- subprocess
