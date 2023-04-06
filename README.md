@@ -1,4 +1,4 @@
-# This is the Github repository for the scrips and input files used to perform the analysis described in the following project: "PhD thesis chapter - Halogenated small molecule producing BGC diversity in marine sponges"
+## This is the Github repository for the scrips and input files used to perform the analysis described in the following project: "PhD thesis chapter - Halogenated small molecule producing BGC diversity in marine sponges"
 
 ### Requirements:
 
